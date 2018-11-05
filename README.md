@@ -1,2 +1,2 @@
 # Personal Portfolio
-https://ycedwin.github.io/portfolio/.
+https://ycedwin.github.io/portfolio/
